@@ -1,4 +1,4 @@
-# Bograntex 
+
 Sistema web interno para upload, organização e gerenciamento de imagens em álbuns.
 
 ## Funcionalidades
